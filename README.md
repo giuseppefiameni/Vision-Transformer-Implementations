@@ -1,2 +1,2 @@
-# Vision-Transformer-Implementations
-Reference architectures for SOTA Visual Perception and Transformer models.
+# Vision Transformer (ViT) Implementations
+SOTA computer vision architectures optimized for perception tasks.
